@@ -8,9 +8,9 @@
 [![Latest release](https://img.shields.io/github/v/release/UWorld-Group/uworldimagedate?label=Windows%20%7C%20macOS&logo=github&color=0a7bbd)](https://github.com/UWorld-Group/uworldimagedate/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/UWorld-Group/uworldimagedate/total?label=downloads&color=2ea043)](https://github.com/UWorld-Group/uworldimagedate/releases)
 
-| Windows | macOS (Apple silicon) | macOS (Intel) |
-|:---:|:---:|:---:|
-| [**Download**](https://github.com/UWorld-Group/uworldimagedate/releases/latest/download/UWorldImageDate-windows-x64-setup.exe) | [**DMG**](https://github.com/UWorld-Group/uworldimagedate/releases/latest/download/UWorldImageDate-macos-arm64.dmg) | [**DMG**](https://github.com/UWorld-Group/uworldimagedate/releases/latest/download/UWorldImageDate-macos-x64.dmg) |
+| Windows | macOS (Apple silicon · Intel) |
+|:---:|:---:|
+| [**Download**](https://github.com/UWorld-Group/uworldimagedate/releases/latest/download/UWorldImageDate-windows-x64-setup.exe) | [**DMG**](https://github.com/UWorld-Group/uworldimagedate/releases/latest/download/UWorldImageDate-macos-universal.dmg) |
 
 <img src="https://service.uworld.co.kr/assets/shots/uworldimagedate/screen-01.jpg?v=3" alt="UWorld Image Date — before and after · 내려받은 직후와 복원 후" width="820">
 
@@ -80,10 +80,10 @@ The good news: the original date is usually still **inside the photo** — in th
 
 ### macOS (DMG)
 
-**Requirements · 사양**: macOS 14 or later (15 or later recommended). Choose **arm64** for Apple silicon (M1–M4) or **x64** for Intel Macs.
-macOS 14 이상(15 이상 권장). Apple 실리콘(M1~M4)은 **arm64**, 인텔 맥은 **x64** 를 받으세요.
+**Requirements · 사양**: macOS 14 or later (15 or later recommended), Apple silicon or Intel — one universal DMG for both.
+macOS 14 이상(15 이상 권장). Apple 실리콘·인텔 모두 유니버설 DMG 하나로 설치합니다.
 
-1. Download **`UWorldImageDate-<version>-macos-arm64.dmg`** (or `-x64.dmg`) from the [latest release](https://github.com/UWorld-Group/uworldimagedate/releases/latest) and open it.
+1. Download **`UWorldImageDate-<version>-macos-universal.dmg`** from the [latest release](https://github.com/UWorld-Group/uworldimagedate/releases/latest) and open it.
    최신 릴리스에서 DMG를 내려받아 엽니다.
 2. Drag **이미지 일자변경** onto **Applications**. The app is signed with UWorld's Developer ID and **notarized by Apple**.
    **이미지 일자변경**을 응용 프로그램 폴더로 끌어다 놓습니다. 유월드 Developer ID 서명과 Apple 공증을 받은 앱입니다.
