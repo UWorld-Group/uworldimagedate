@@ -12,7 +12,7 @@
 |:---:|:---:|:---:|
 | [**Download**](https://github.com/UWorld-Group/uworldimagedate/releases/latest/download/UWorldImageDate-windows-x64-setup.exe) | [**DMG**](https://github.com/UWorld-Group/uworldimagedate/releases/latest/download/UWorldImageDate-macos-arm64.dmg) | [**DMG**](https://github.com/UWorld-Group/uworldimagedate/releases/latest/download/UWorldImageDate-macos-x64.dmg) |
 
-<img src="https://service.uworld.co.kr/assets/shots/uworldimagedate/screen-01.jpg" alt="UWorld Image Date — before and after · 내려받은 직후와 복원 후" width="820">
+<img src="https://service.uworld.co.kr/assets/shots/uworldimagedate/screen-01.jpg?v=2" alt="UWorld Image Date — before and after · 내려받은 직후와 복원 후" width="820">
 
 </div>
 
